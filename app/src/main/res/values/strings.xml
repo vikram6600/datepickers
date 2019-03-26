@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mydemo</string>
+    <string name="title_activity_login_response">LoginResponse</string>
+</resources>
